@@ -1,6 +1,6 @@
 # MoonFlix
 
-    Fullstack Responsive Movie Website
+ Fullstack Responsive Movie Website | React - Express.js
 
 # Resource
 
